@@ -23,6 +23,10 @@ Atualmente estou aprofundando meus conhecimentos em **PHP, JavaScript, MySQL, AP
 <img src="https://img.shields.io/badge/LinkedIn-David%20Felipe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<a href="https://www.instagram.com/davicode_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-davicode_-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
 </p>
 
 ---

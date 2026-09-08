@@ -64,6 +64,10 @@ Atualmente estou aprofundando meus conhecimentos em **PHP, JavaScript, MySQL, AP
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45"/>
+
 </p>
 ### Tecnologias
 

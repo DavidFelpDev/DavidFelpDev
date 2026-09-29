@@ -5,7 +5,7 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** e desenvolvedor focado na criação de **sites, sistemas web e soluções digitais**.
 
-Atualmente estou aprofundando meus conhecimentos em **PHP, JavaScript, MySQL, APIs, Node.js e desenvolvimento de sistemas**, buscando sempre escrever código organizado, funcional e escalável.
+Atualmente estou aprofundando meus conhecimentos em **PHP, JavaScript, MySQL, APIs, e desenvolvimento de sistemas**, buscando sempre escrever código organizado, funcional e escalável.
 
 🚀 Gosto de transformar ideias em projetos reais e criar soluções que ajudam empresas a melhorar seus processos e sua presença digital.
 
